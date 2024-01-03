@@ -12,4 +12,5 @@ What's inside a data engine? Let's build one from scratch, for fun (and profit).
 * [DataFusion Query Optimizer(https://github.com/shauryashaurya/arrow-datafusion/tree/main/datafusion/optimizer)  
 * [Quokka](https://github.com/marsupialtail/quokka)  
 * [SQLGlot](https://github.com/tobymao/sqlglot)  
-* [Substrait: Cross-Language Serialization for Relational Algebra - SQL to Substrait tutorial](https://substrait.io/tutorial/sql_to_substrait/)  
+* [Substrait: Cross-Language Serialization for Relational Algebra - SQL to Substrait tutorial](https://substrait.io/tutorial/sql_to_substrait/), also [GitHub](https://github.com/substrait-io/substrait)    
+* [Ibis](https://github.com/ibis-project/ibis) (uses ```SQLGlot``` as of Jan 2024)    
